@@ -1,0 +1,4 @@
+[
+  {"id": 642, "stationId": 400, "param": {"paramName": "pył zawieszony PM2.5", "paramFormula": "PM2.5", "paramCode": "PM2.5", "idParam": 69}},
+  {"id": 644, "stationId": 400, "param": {"paramName": "pył zawieszony PM10", "paramFormula": "PM10", "paramCode": "PM10", "idParam": 3}}
+]

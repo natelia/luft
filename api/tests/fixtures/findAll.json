@@ -1,0 +1,18 @@
+[
+  {
+    "id": 400,
+    "stationName": "Kraków, al. Krasińskiego",
+    "gegrLat": "50.057678",
+    "gegrLon": "19.926452",
+    "city": {"id": 7, "name": "Kraków"},
+    "addressStreet": "al. Krasińskiego"
+  },
+  {
+    "id": 114,
+    "stationName": "Nowy Sącz, ul. Nawojowska",
+    "gegrLat": "49.617279",
+    "gegrLon": "20.715372",
+    "city": {"id": 28, "name": "Nowy Sącz"},
+    "addressStreet": "ul. Nawojowska 63"
+  }
+]
